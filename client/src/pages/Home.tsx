@@ -216,7 +216,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow border-border">
               <div className="mb-6">
                 <img 
-                  src="https://d2xsxph8kpxj0f.cloudfront.net/310519663565725990/AqtWqoa53LUg6ZTriaRpnt/service-recommendations-PXdLQv2eBULk4iD.webp"
+                  src="/images/security-recommendations.svg"
                   alt="Security Recommendations"
                   className="w-full h-48 object-cover rounded-lg"
                 />

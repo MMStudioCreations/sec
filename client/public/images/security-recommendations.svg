@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cybersecurity Recommendations Dashboard</title>
+  <desc id="desc">A stylized security operations dashboard with analytics charts, AI network nodes, and a protected data lock icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1a33" />
+      <stop offset="100%" stop-color="#15355f" />
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#29d3ff" />
+      <stop offset="100%" stop-color="#66ffe3" />
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)" />
+
+  <g opacity="0.15" stroke="#6bb8ff" stroke-width="1">
+    <path d="M0 140h1600M0 240h1600M0 340h1600M0 440h1600M0 540h1600M0 640h1600M0 740h1600" />
+    <path d="M160 0v900M320 0v900M480 0v900M640 0v900M800 0v900M960 0v900M1120 0v900M1280 0v900M1440 0v900" />
+  </g>
+
+  <g>
+    <rect x="90" y="120" width="820" height="660" rx="24" fill="#102949" stroke="#2b6398" stroke-width="3" />
+    <rect x="980" y="150" width="520" height="290" rx="20" fill="#102949" stroke="#2b6398" stroke-width="3" />
+    <rect x="980" y="480" width="520" height="300" rx="20" fill="#102949" stroke="#2b6398" stroke-width="3" />
+  </g>
+
+  <g opacity="0.3" stroke="#538ec6" stroke-width="1">
+    <path d="M150 200h700M150 270h700M150 340h700M150 410h700M150 480h700M150 550h700M150 620h700M150 690h700" />
+    <path d="M150 200v500M230 200v500M310 200v500M390 200v500M470 200v500M550 200v500M630 200v500M710 200v500M790 200v500" />
+  </g>
+
+  <polyline
+    points="170,650 250,610 330,565 410,520 490,470 570,445 650,390 730,330 810,290"
+    fill="none"
+    stroke="url(#cyan)"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    filter="url(#glow)"
+  />
+
+  <g fill="#b6fff6">
+    <circle cx="170" cy="650" r="7" />
+    <circle cx="250" cy="610" r="7" />
+    <circle cx="330" cy="565" r="7" />
+    <circle cx="410" cy="520" r="7" />
+    <circle cx="490" cy="470" r="7" />
+    <circle cx="570" cy="445" r="7" />
+    <circle cx="650" cy="390" r="7" />
+    <circle cx="730" cy="330" r="7" />
+    <circle cx="810" cy="290" r="7" />
+  </g>
+
+  <g>
+    <rect x="1030" y="385" width="42" height="30" rx="8" fill="#22c6ff" />
+    <rect x="1095" y="355" width="42" height="60" rx="8" fill="#22c6ff" />
+    <rect x="1160" y="330" width="42" height="85" rx="8" fill="#22c6ff" />
+    <rect x="1225" y="300" width="42" height="115" rx="8" fill="#22c6ff" />
+    <rect x="1290" y="270" width="42" height="145" rx="8" fill="#22c6ff" />
+    <rect x="1355" y="240" width="42" height="175" rx="8" fill="#22c6ff" />
+  </g>
+
+  <g stroke="#7ad6ff" stroke-width="3">
+    <line x1="1030" y1="560" x2="1120" y2="540" />
+    <line x1="1120" y1="540" x2="1210" y2="580" />
+    <line x1="1210" y1="580" x2="1300" y2="550" />
+    <line x1="1300" y1="550" x2="1390" y2="610" />
+    <line x1="1120" y1="540" x2="1150" y2="650" />
+    <line x1="1210" y1="580" x2="1260" y2="680" />
+    <line x1="1300" y1="550" x2="1350" y2="670" />
+  </g>
+
+  <g fill="#bff2ff" stroke="#0f9fd8" stroke-width="3">
+    <circle cx="1030" cy="560" r="12" />
+    <circle cx="1120" cy="540" r="12" />
+    <circle cx="1210" cy="580" r="12" />
+    <circle cx="1300" cy="550" r="12" />
+    <circle cx="1390" cy="610" r="12" />
+    <circle cx="1150" cy="650" r="12" />
+    <circle cx="1260" cy="680" r="12" />
+    <circle cx="1350" cy="670" r="12" />
+  </g>
+
+  <g transform="translate(640 520)">
+    <rect x="-95" y="-5" width="190" height="145" rx="22" fill="#1182cc" stroke="#87dcff" stroke-width="4" />
+    <path d="M-62 -5v-30c0-34 25-58 62-58s62 24 62 58v30" fill="none" stroke="#87dcff" stroke-width="10" stroke-linecap="round" />
+    <circle cx="0" cy="55" r="12" fill="#d8f8ff" />
+    <rect x="-6" y="67" width="12" height="38" rx="5" fill="#d8f8ff" />
+  </g>
+
+  <rect width="1600" height="900" fill="none" stroke="#0d203d" stroke-width="20" opacity="0.35" />
+</svg>
