@@ -1,0 +1,49 @@
+{
+  "title": "Spartan Executive Consultant – Security Recommendations",
+  "hero": {
+    "heading": "Protect What Matters",
+    "subheading": "Expert security recommendations, drills, and assessments for corporations, schools, and high-net-worth individuals.",
+    "image": "assets/images/security-recommendations.png"
+  },
+  "sections": [
+    {
+      "id": "intro-video",
+      "title": "Security Best Practices Overview",
+      "type": "video",
+      "videoEmbed": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Watch our overview of the most critical security practices every organization should implement immediately."
+    },
+    {
+      "id": "assessment-guide",
+      "title": "How We Conduct Security Assessments",
+      "type": "text",
+      "text": "Our security assessments begin with a comprehensive walkthrough of your facility. We identify physical vulnerabilities, evaluate access control, review emergency exit routes, and interview key staff. You receive a prioritized written report with clear, actionable recommendations ranked by urgency and cost.\n\nEvery assessment covers three core areas:\n\n1. **Physical Security** – perimeter, entry points, surveillance coverage\n2. **Personnel Protocols** – staff awareness, visitor management, incident response\n3. **Emergency Preparedness** – evacuation plans, communication chains, drill schedules"
+    },
+    {
+      "id": "drill-photo",
+      "title": "Active Shooter Drill Training",
+      "type": "image",
+      "image": "assets/images/active-shooter-drill.jpg",
+      "caption": "Our certified trainers conduct realistic, controlled drills tailored to your facility layout and staff composition.",
+      "altText": "Security professionals conducting an active shooter drill in a corporate office environment"
+    },
+    {
+      "id": "recommendations-video",
+      "title": "Top 5 Recommendations for Workplace Safety",
+      "type": "video",
+      "videoFile": "assets/videos/workplace-safety-tips.mp4",
+      "poster": "assets/images/security-recommendations.png",
+      "description": "A short briefing from our CEO Nicholas Arhakos on the five most impactful changes your organization can make today."
+    },
+    {
+      "id": "contact-cta",
+      "title": "Ready to Strengthen Your Security?",
+      "type": "text",
+      "text": "Contact us today to schedule a free initial consultation. We serve organizations of all sizes across the tri-state area and beyond. Our team is available Monday–Friday 9am–6pm and Saturday–Sunday 11am–5pm.\n\n**Phone:** (347) 726-8382\n**Email:** info@spartanexecutiveconsultant.com\n**Address:** 146 Holly Ave"
+    }
+  ],
+  "cta": {
+    "text": "Schedule a Free Consultation",
+    "url": "mailto:info@spartanexecutiveconsultant.com"
+  }
+}
