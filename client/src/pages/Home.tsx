@@ -216,7 +216,7 @@ export default function Home() {
             <Card className="p-8 hover:shadow-lg transition-shadow border-border">
               <div className="mb-6">
                 <img 
-                  src="/images/security-recommendations.svg"
+                  src="/images/security-recommendations.png"
                   alt="Security Recommendations"
                   className="w-full h-48 object-cover rounded-lg"
                 />
